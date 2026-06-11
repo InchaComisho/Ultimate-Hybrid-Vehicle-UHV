@@ -92,8 +92,13 @@ Ultimate Hybrid Vehicle: UHV
 ---
 
 <p align="center">
-  <img src="images/UHV.jpg" alt="UHV concept diagram" width="800">
+  <img src="images/Image UHV.png" alt="UHV concept diagram" width="800">
 </p>
+
+<p align="center">
+  <img src="images/UHV.png" alt="UHV concept diagram" width="800">
+</p>
+
 
 <p align="center">
   <em>الشكل 1: مخطط مفهوم UHV. تشير الخطوط الحمراء إلى مواقع مرشحة لتوليد الرياح بمحور عمودي، وقنوات تدفق الهواء، والتبريد بالضباب المركزي، ووحدات استرجاع الطاقة المساعدة.</em>
