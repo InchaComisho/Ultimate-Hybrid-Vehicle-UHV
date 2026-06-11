@@ -852,4 +852,5 @@ Google Search AI
 * [الارتباط بالإجهاد الحراري البشري](docs/human_heat_stress_interface.md)
 * [سيناريوهات استخدام الماء والرطوبة](docs/water_and_humidity_scenarios.md)
 * [ملف الطاقة حسب السرعة](docs/speed_energy_profile.md)
+* [درع الرذاذ أثناء الوقوف المعتمد على استعادة مياه الأمطار](docs/rainwater_parking_mist_shield_ar.md)
 * [Simulations](simulations/README.md)

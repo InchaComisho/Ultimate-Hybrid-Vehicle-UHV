@@ -136,3 +136,13 @@ Useful comparison metrics include:
 * maintenance cost per operating hour
 
 UHV should be advanced only where measured local cooling and human-comfort benefits outweigh water-resource and safety costs.
+
+## Related Parking Heat-Mitigation Mode
+
+For parked vehicles, UHV may also include a rainwater-recovered exterior mist mode intended to reduce vehicle surface heating and cabin heat-soak potential under suitable conditions.
+
+See:
+
+* [Rainwater-Recovered Parking Mist Shield](rainwater_parking_mist_shield.md)
+* [雨水回収式・駐車時ミスト遮熱モード](rainwater_parking_mist_shield_ja.md)
+* [درع الرذاذ أثناء الوقوف المعتمد على استعادة مياه الأمطار](rainwater_parking_mist_shield_ar.md)
