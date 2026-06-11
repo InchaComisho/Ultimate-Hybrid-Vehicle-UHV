@@ -94,13 +94,15 @@ UHV構想は、ここに新しい視点を導入する。
   <img src="images/Image UHV.png" alt="UHV concept diagram" width="800">
 </p>
 
+**図1：UHVの実写風コンセプトイメージ。**  
+走行風回収とセンターミスト冷却の思想を統合した、環境調律型クロスオーバー車両の完成イメージ。
+
 <p align="center">
   <img src="images/UHV.png" alt="UHV concept diagram" width="800">
 </p>
 
-<p align="center">
-  <em>図1：UHV構想図。赤いラインは、垂直軸風力発電、走行風ダクト、センターミスト冷却、補助電力回収ユニットの候補位置を示す。</em>
-</p>
+**図2：UHV構想図（CAD風レイアウト）。**  
+走行風回収ライン、センターミスト冷却ライン、補助エネルギー回収ゾーンの候補配置を示す概念図。
 
 ---
 
