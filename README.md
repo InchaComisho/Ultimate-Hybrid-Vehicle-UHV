@@ -98,7 +98,8 @@ The UHV concept introduces a different viewpoint.
 </p>
 
 <p align="center">
-  <em>Figure 1: Photorealistic rendering of the UHV concept vehicle. This image illustrates a possible exterior vision of the Ultimate Hybrid Vehicle.</em>
+  <em>**Figure 1. Photorealistic concept image of the Ultimate Hybrid Vehicle (UHV).**  
+A visual concept rendering showing the intended appearance of a climate-adaptive crossover vehicle integrating airflow recovery and center-mist cooling ideas.</em>
 </p>
 
 ---
@@ -110,7 +111,8 @@ The UHV concept introduces a different viewpoint.
 </p>
 
 <p align="center">
-  <em>Figure 2: UHV concept layout diagram. The red lines indicate candidate locations for vertical-axis wind generation, airflow ducts, center-mist cooling, and auxiliary power recovery units.</em>
+  <em>**Figure 2. UHV concept layout diagram (CAD-style).**  
+A conceptual multi-view layout showing candidate zones for airflow recovery, center-mist cooling lines, and auxiliary energy recovery modules.</em>
 </p>
 
 ---
