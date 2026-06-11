@@ -94,7 +94,7 @@ The UHV concept introduces a different viewpoint.
 ## Visual Concept
 
 <p align="center">
-  <img src="images/UHV.jpg" alt="Photorealistic UHV concept rendering" width="800">
+  <img src="images/Image UHV.png" alt="Photorealistic UHV concept rendering" width="800">
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ The UHV concept introduces a different viewpoint.
 ## Concept Layout
 
 <p align="center">
-  <img src="images/UHV_layout.jpg" alt="UHV concept layout diagram" width="800">
+  <img src="images/UHV.png" alt="UHV concept layout diagram" width="800">
 </p>
 
 <p align="center">
