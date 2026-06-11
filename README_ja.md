@@ -774,5 +774,8 @@ By combining AER-Loop, center-mist cooling, hybrid air-conditioning, and retrofi
 * [Middle East Deployment](docs/middle_east_deployment.md)
 * [Safety and Regulatory Considerations](docs/safety_and_regulatory_considerations.md)
 * [Evaluation Metrics](docs/evaluation_metrics.md)
+* [代表ケースモデル](docs/representative_case_model.md)
+* [人体熱ストレスとの接続](docs/human_heat_stress_interface.md)
+* [水使用量と湿度シナリオ](docs/water_and_humidity_scenarios.md)
 * [Simulations](simulations/README.md)
 

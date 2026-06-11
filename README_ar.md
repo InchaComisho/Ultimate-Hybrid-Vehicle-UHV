@@ -836,3 +836,19 @@ Google Search AI
 * [REIMEI Civilization Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition)
 * [REIMEI-NOP Natural Origin Plasma Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator)
 * [Distributed Renewable Infrastructure vs. Fusion Monocentrism](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
+
+---
+
+## Documentation
+
+* [Technical Overview](docs/technical_overview.md)
+* [AER-Loop Model](docs/aer_loop_model.md)
+* [Center-Mist Cooling Model](docs/center_mist_cooling_model.md)
+* [Retrofit Implementation Plan](docs/retrofit_implementation_plan.md)
+* [Middle East Deployment](docs/middle_east_deployment.md)
+* [Safety and Regulatory Considerations](docs/safety_and_regulatory_considerations.md)
+* [Evaluation Metrics](docs/evaluation_metrics.md)
+* [نموذج الحالات التمثيلية](docs/representative_case_model.md)
+* [الارتباط بالإجهاد الحراري البشري](docs/human_heat_stress_interface.md)
+* [سيناريوهات استخدام الماء والرطوبة](docs/water_and_humidity_scenarios.md)
+* [Simulations](simulations/README.md)

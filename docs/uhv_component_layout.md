@@ -6,6 +6,8 @@ This document explains how the visual layout of the **Ultimate Hybrid Vehicle UH
 
 The diagram is not a finalized engineering blueprint. It is a **conceptual component layout** intended to clarify where major UHV subsystems may be located and what functions each vehicle zone could support.
 
+The dimensions shown in the CAD-style concept image should be treated as representative prototype-package dimensions, not as finalized manufacturing specifications. They are useful for scale and layout discussion, but they do not define a certified production vehicle.
+
 <p align="center">
   <img src="../images/UHV.jpg" alt="UHV concept diagram" width="800">
 </p>
