@@ -593,7 +593,7 @@ UHVは以下の思想に基づく。
 
 ### 関連GitHubリポジトリ  
 
-* Center-Mist Ultrasonic Cooling Fan Concept
+* Center-Mist Ultrasonic Cooling Fan Concept  
   https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
 
 ---
