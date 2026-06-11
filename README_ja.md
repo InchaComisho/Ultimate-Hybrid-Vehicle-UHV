@@ -577,21 +577,21 @@ UHVは以下の思想に基づく。
 
 ### 今回の記事
 
-* 究極のハイブリッド車 UHV 構想案
+* 究極のハイブリッド車 UHV 構想案  
   https://note.com/inchacomusho/n/nd6cce23c57bc
 
 ### 過去の関連note記事
 
-* AER-Loop 関連構想
+* AER-Loop 関連構想  
   https://note.com/inchacomusho/n/n2d8f31caf428
 
-* 関連構想記事
+* 関連構想記事  
   https://note.com/inchacomusho/n/ndfc6d80d992a
 
-* 関連構想記事
+* 関連構想記事  
   https://note.com/inchacomusho/n/nc9752b7c576f
 
-### 関連GitHubリポジトリ
+### 関連GitHubリポジトリ  
 
 * Center-Mist Ultrasonic Cooling Fan Concept
   https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
