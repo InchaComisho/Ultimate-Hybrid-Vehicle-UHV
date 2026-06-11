@@ -118,4 +118,28 @@ python speed_energy_profile.py --mist-l-min 0.5 --evap-efficiency 0.7 --csv spee
 
 Users may plot the CSV output with external tools such as Python/matplotlib, spreadsheets, or gnuplot. The repository script itself remains standard-library only.
 
+## Parking Auxiliary Energy Balance
+
+`parking_auxiliary_energy_balance.py` estimates a simplified daily auxiliary energy balance from protected solar skin input, parked natural-wind auxiliary generation, and standby loads. It is not a validated vehicle charging model and does not imply main traction battery charging.
+
+Example:
+
+```bash
+python parking_auxiliary_energy_balance.py --solar-area 2.0 --solar-efficiency 0.12 --solar-hours 5 --solar-irradiance 800 --wind-area 0.05 --wind-speed 4 --cp 0.15 --conversion-efficiency 0.7 --operation-hours 24 --standby-load-w 5
+```
+
+Units:
+
+* `--solar-area`: protected solar area in square meters
+* `--solar-irradiance`: representative solar irradiance in W/m^2
+* `--solar-efficiency`: representative protected-module conversion efficiency
+* `--solar-hours`: equivalent sun hours per day
+* `--wind-area`: vertical-axis rotor or intake area in square meters
+* `--wind-speed`: average natural wind speed in m/s
+* `--cp`: wind power coefficient
+* `--conversion-efficiency`: generator and charge conversion efficiency
+* `--operation-hours`: hours per day for wind generation and standby load
+* `--standby-load-w`: auxiliary standby load in watts
+* output: Wh/day generation, load, and surplus or deficit
+
 All outputs in these tools are simplified estimates for validation planning. They should not be presented as proven cooling performance, guaranteed city-scale effect, or improved vehicle efficiency.

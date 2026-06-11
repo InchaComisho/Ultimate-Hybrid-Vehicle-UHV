@@ -870,4 +870,6 @@ By combining AER-Loop, center-mist cooling, hybrid air-conditioning, and retrofi
 * [Water and Humidity Scenarios](docs/water_and_humidity_scenarios.md)
 * [Speed-Energy Profile](docs/speed_energy_profile.md)
 * [Rainwater-Recovered Parking Mist Shield](docs/rainwater_parking_mist_shield.md)
+* [Perovskite Protective Solar Skin](docs/perovskite_protective_solar_skin.md)
+* [Parked Auxiliary Energy Maintenance Mode](docs/parked_auxiliary_energy_maintenance.md)
 * [Simulations](simulations/README.md)

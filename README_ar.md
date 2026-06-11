@@ -853,4 +853,6 @@ Google Search AI
 * [سيناريوهات استخدام الماء والرطوبة](docs/water_and_humidity_scenarios.md)
 * [ملف الطاقة حسب السرعة](docs/speed_energy_profile.md)
 * [درع الرذاذ أثناء الوقوف المعتمد على استعادة مياه الأمطار](docs/rainwater_parking_mist_shield_ar.md)
+* [الجلد الشمسي الوقائي المعتمد على خلايا البيروفسكايت](docs/perovskite_protective_solar_skin_ar.md)
+* [وضع الحفاظ على الطاقة المساعدة أثناء الوقوف](docs/parked_auxiliary_energy_maintenance_ar.md)
 * [Simulations](simulations/README.md)
