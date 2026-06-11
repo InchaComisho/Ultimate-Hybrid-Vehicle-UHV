@@ -802,6 +802,24 @@ By combining AER-Loop, center-mist cooling, hybrid air-conditioning, and retrofi
 
 ---
 
+## Related Portal and Energy Architecture Repositories
+
+### Portal Repositories
+
+* [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+* [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+* [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+
+### Energy and Infrastructure Repositories
+
+* [REIMEI Nature-Inspired Energy Architecture](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture)
+* [Dual-Core Edge Magnetic Structure for Universal Rotational Energy Harvesting](https://github.com/InchaComisho/Dual-Core-Edge-Magnetic-Structure-for-Universal-Rotational-Energy-Harvesting)
+* [REIMEI Civilization Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition)
+* [REIMEI-NOP Natural Origin Plasma Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator)
+* [Distributed Renewable Infrastructure vs. Fusion Monocentrism](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
+
+---
+
 ## Documentation
 
 * [Technical Overview](docs/technical_overview.md)

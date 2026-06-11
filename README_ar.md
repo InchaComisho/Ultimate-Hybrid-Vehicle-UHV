@@ -818,3 +818,21 @@ Google Search AI
 الفكرة المركزية هي استخدام ما تنتجه المركبات أصلًا — تدفق الهواء، والحرارة، وطاقة الكبح، والدوران، والحركة — بطريقة أكثر ذكاءً.
 
 ومن خلال الجمع بين AER-Loop، والتبريد بالرذاذ المركزي، والتكييف الهجين، ووحدات المركبات القابلة للتركيب اللاحق، يهدف UHV إلى تحويل وسائل النقل من مصادر حرارة سلبية إلى عناصر فعالة في تنظيم الحرارة الحضرية والكوكبية.
+
+---
+
+## مستودعات البوابات وبنية الطاقة ذات الصلة
+
+### مستودعات البوابات
+
+* [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+* [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+* [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+
+### مستودعات الطاقة والبنية التحتية
+
+* [REIMEI Nature-Inspired Energy Architecture](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture)
+* [Dual-Core Edge Magnetic Structure for Universal Rotational Energy Harvesting](https://github.com/InchaComisho/Dual-Core-Edge-Magnetic-Structure-for-Universal-Rotational-Energy-Harvesting)
+* [REIMEI Civilization Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition)
+* [REIMEI-NOP Natural Origin Plasma Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator)
+* [Distributed Renewable Infrastructure vs. Fusion Monocentrism](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
