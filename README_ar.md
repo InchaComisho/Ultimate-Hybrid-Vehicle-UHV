@@ -1,8 +1,10 @@
 # مفهوم المركبة الهجينة القصوى UHV
 
-## مفهوم تنقّل متكيّف مع المناخ يدمج AER-Loop و Center-Mist Cooling
+[English](README.md) | [日本語版](README_ja.md)
 
-[English version](README.md) | [日本語版](README_ja.md)
+مفهوم اختراع مفتوح لمركبات متكيفة مع المناخ يدمج استرجاع طاقة تدفق الهواء والتبريد التبخري بالضباب المركزي، وخاصة للمناخات الجافة والمدن الصحراوية وأنظمة التبريد الحضرية القابلة للتركيب اللاحق.
+
+## مفهوم تنقّل متكيّف مع المناخ يدمج AER-Loop و Center-Mist Cooling
 
 ---
 
@@ -788,4 +790,17 @@ Google Search AI
 الفكرة المركزية هي استخدام ما تنتجه المركبات أصلًا — تدفق الهواء، والحرارة، وطاقة الكبح، والدوران، والحركة — بطريقة أكثر ذكاءً.
 
 ومن خلال الجمع بين AER-Loop، والتبريد بالضباب المركزي، والتكييف الهجين، ووحدات المركبات القابلة للتركيب اللاحق، يهدف UHV إلى تحويل وسائل النقل من مصادر حرارة سلبية إلى عناصر فعالة في تنظيم الحرارة الحضرية والكوكبية.
+
+---
+
+## Documentation
+
+* [Technical Overview](docs/technical_overview.md)
+* [AER-Loop Model](docs/aer_loop_model.md)
+* [Center-Mist Cooling Model](docs/center_mist_cooling_model.md)
+* [Retrofit Implementation Plan](docs/retrofit_implementation_plan.md)
+* [Middle East Deployment](docs/middle_east_deployment.md)
+* [Safety and Regulatory Considerations](docs/safety_and_regulatory_considerations.md)
+* [Evaluation Metrics](docs/evaluation_metrics.md)
+* [Simulations](simulations/README.md)
 

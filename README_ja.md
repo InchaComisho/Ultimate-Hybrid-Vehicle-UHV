@@ -1,5 +1,9 @@
 # 究極のハイブリッド車 UHV 構想案
 
+[English](README.md) | [العربية](README_ar.md)
+
+走行風エネルギー回収とセンターミスト気化冷却を統合する、気候適応型車両のためのオープン発明構想です。特に乾燥気候、砂漠都市、既存都市交通への後付け冷却システムを対象とします。
+
 ## Ultimate Hybrid Vehicle Concept
 
 ### AER-Loop × Center-Mist Cooling による環境調律型モビリティ
@@ -734,4 +738,17 @@ The central idea is not to create a perpetual-motion vehicle.
 The central idea is to use what vehicles already produce — airflow, heat, braking energy, rotation, and motion — more intelligently.
 
 By combining AER-Loop, center-mist cooling, hybrid air-conditioning, and retrofit vehicle modules, UHV aims to transform transportation from a passive heat source into an active component of urban and planetary thermal regulation.
+
+---
+
+## Documentation
+
+* [Technical Overview](docs/technical_overview.md)
+* [AER-Loop Model](docs/aer_loop_model.md)
+* [Center-Mist Cooling Model](docs/center_mist_cooling_model.md)
+* [Retrofit Implementation Plan](docs/retrofit_implementation_plan.md)
+* [Middle East Deployment](docs/middle_east_deployment.md)
+* [Safety and Regulatory Considerations](docs/safety_and_regulatory_considerations.md)
+* [Evaluation Metrics](docs/evaluation_metrics.md)
+* [Simulations](simulations/README.md)
 
