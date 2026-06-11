@@ -813,5 +813,6 @@ By combining AER-Loop, center-mist cooling, hybrid air-conditioning, and retrofi
 * [代表ケースモデル](docs/representative_case_model.md)
 * [人体熱ストレスとの接続](docs/human_heat_stress_interface.md)
 * [水使用量と湿度シナリオ](docs/water_and_humidity_scenarios.md)
+* [速度別エネルギープロファイル](docs/speed_energy_profile.md)
 * [Simulations](simulations/README.md)
 

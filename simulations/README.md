@@ -100,4 +100,22 @@ Units:
 * `--days`: operating days
 * output: liters per day and liters over the selected period
 
+## Speed-Energy Profile
+
+`speed_energy_profile.py` compares theoretical Center-Mist latent cooling potential with auxiliary AER-Loop wind recovery power across a vehicle speed range. The cooling value is a latent heat potential, not validated effective cooling. The AER-Loop value is auxiliary only and must be evaluated together with aerodynamic drag.
+
+Example:
+
+```bash
+python speed_energy_profile.py --mist-l-min 0.5 --evap-efficiency 0.7 --speed-min 20 --speed-max 80 --speed-step 10
+```
+
+CSV example:
+
+```bash
+python speed_energy_profile.py --mist-l-min 0.5 --evap-efficiency 0.7 --csv speed_profile.csv
+```
+
+Users may plot the CSV output with external tools such as Python/matplotlib, spreadsheets, or gnuplot. The repository script itself remains standard-library only.
+
 All outputs in these tools are simplified estimates for validation planning. They should not be presented as proven cooling performance, guaranteed city-scale effect, or improved vehicle efficiency.
