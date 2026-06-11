@@ -1,5 +1,7 @@
 # Ultimate Hybrid Vehicle UHV Concept
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 ## A Climate-Adaptive Mobility Concept Integrating AER-Loop and Center-Mist Cooling
 
 ---
