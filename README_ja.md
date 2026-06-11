@@ -91,7 +91,11 @@ UHV構想は、ここに新しい視点を導入する。
 ---
 
 <p align="center">
-  <img src="images/UHV.jpg" alt="UHV構想図" width="800">
+  <img src="images/Image UHV.png" alt="UHV concept diagram" width="800">
+</p>
+
+<p align="center">
+  <img src="images/UHV.png" alt="UHV concept diagram" width="800">
 </p>
 
 <p align="center">
