@@ -7,6 +7,7 @@
 - Added multilingual documentation for the Rainwater-Recovered Parking Mist Shield concept, a parking heat-mitigation mode using treated rainwater and exterior ultrasonic mist cooling.
 - Added multilingual documentation for protected perovskite solar skin and parked auxiliary energy maintenance, including a simplified parking auxiliary energy balance simulation.
 - Added multilingual documentation for the UHV Adaptive Control and Safety System, including speed-adaptive mist control, safety interlocks, and a conceptual control-state simulation.
+- Added multilingual documentation for the Speed Governance and Life-Protection Control Layer, including conceptual logic for legal speed limits, pedestrian safety, intersection safety, and infrastructure-assisted speed control.
 
 ## v0.1.0 - 2026-06
 

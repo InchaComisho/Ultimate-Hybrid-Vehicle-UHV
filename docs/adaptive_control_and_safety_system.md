@@ -151,6 +151,14 @@ Validation should include:
 
 This is a conceptual control layer. It is not production-ready, not certified, and not a complete autonomous safety system. Real implementation requires automotive safety engineering, redundancy, validation, cybersecurity review, maintainability design, and legal approval.
 
+## Related Speed Governance Layer
+
+The adaptive control and safety system should be combined with a speed governance layer that treats vehicle speed as a life-protection parameter rather than a purely driver-selected performance value.
+
+See:
+
+* [Speed Governance and Life-Protection Control Layer](speed_governance_life_protection_control.md)
+
 ## Summary
 
 The UHV Adaptive Control and Safety System defines a safety-first coordination layer for UHV modules. It should treat cooling and auxiliary functions as conditional, supervised, and fail-safe controlled rather than always-on features.

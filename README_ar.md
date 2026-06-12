@@ -856,4 +856,5 @@ Google Search AI
 * [الجلد الشمسي الوقائي المعتمد على خلايا البيروفسكايت](docs/perovskite_protective_solar_skin_ar.md)
 * [وضع الحفاظ على الطاقة المساعدة أثناء الوقوف](docs/parked_auxiliary_energy_maintenance_ar.md)
 * [نظام التحكم التكيفي والسلامة في UHV](docs/adaptive_control_and_safety_system_ar.md)
+* [طبقة حوكمة السرعة وحماية الحياة](docs/speed_governance_life_protection_control_ar.md)
 * [Simulations](simulations/README.md)

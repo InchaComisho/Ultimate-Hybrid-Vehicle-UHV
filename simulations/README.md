@@ -154,4 +154,28 @@ python uhv_control_state_machine.py --speed-kmh 30 --temperature-c 38 --humidity
 
 Inputs include speed, temperature, humidity, visibility, road wetness, pedestrian proximity, water quality, battery state, rain, and fault flags. Output includes selected mode, mist permission, and reason list.
 
+## Speed Governance Controller
+
+`speed_governance_controller.py` evaluates a conceptual speed governance and life-protection control layer. It is not certified vehicle safety software.
+
+Example — legal speed limit with pedestrian and intersection:
+
+```bash
+python speed_governance_controller.py --driver-speed-request 80 --legal-speed-limit 40 --intersection-near --pedestrian-near
+```
+
+Example — weather-adjusted safe speed:
+
+```bash
+python speed_governance_controller.py --driver-speed-request 60 --legal-speed-limit 60 --road-wet --rain
+```
+
+Example — motorcycle blind spot:
+
+```bash
+python speed_governance_controller.py --driver-speed-request 50 --legal-speed-limit 50 --motorcycle-blind-spot
+```
+
+Inputs include driver speed request, legal speed limit, school zone, intersection proximity, pedestrian proximity, cyclist proximity, motorcycle blind spot, visibility, road wetness, rain, infrastructure warning, and sensor fault flags. Output includes allowed target speed, safety mode, warning list, and reason list.
+
 All outputs in these tools are simplified estimates for validation planning. They should not be presented as proven cooling performance, guaranteed city-scale effect, or improved vehicle efficiency.

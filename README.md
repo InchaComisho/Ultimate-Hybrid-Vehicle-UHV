@@ -873,4 +873,5 @@ By combining AER-Loop, center-mist cooling, hybrid air-conditioning, and retrofi
 * [Perovskite Protective Solar Skin](docs/perovskite_protective_solar_skin.md)
 * [Parked Auxiliary Energy Maintenance Mode](docs/parked_auxiliary_energy_maintenance.md)
 * [UHV Adaptive Control and Safety System](docs/adaptive_control_and_safety_system.md)
+* [Speed Governance and Life-Protection Control Layer](docs/speed_governance_life_protection_control.md)
 * [Simulations](simulations/README.md)
