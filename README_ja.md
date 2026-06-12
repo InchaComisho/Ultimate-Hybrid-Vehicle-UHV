@@ -817,5 +817,6 @@ By combining AER-Loop, center-mist cooling, hybrid air-conditioning, and retrofi
 * [雨水回収式・駐車時ミスト遮熱モード](docs/rainwater_parking_mist_shield_ja.md)
 * [保護型ペロブスカイト・ソーラースキン](docs/perovskite_protective_solar_skin_ja.md)
 * [駐車時補助エネルギー維持モード](docs/parked_auxiliary_energy_maintenance_ja.md)
+* [UHV適応制御・安全制御システム](docs/adaptive_control_and_safety_system_ja.md)
 * [Simulations](simulations/README.md)
 

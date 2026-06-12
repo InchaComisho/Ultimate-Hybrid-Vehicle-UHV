@@ -872,4 +872,5 @@ By combining AER-Loop, center-mist cooling, hybrid air-conditioning, and retrofi
 * [Rainwater-Recovered Parking Mist Shield](docs/rainwater_parking_mist_shield.md)
 * [Perovskite Protective Solar Skin](docs/perovskite_protective_solar_skin.md)
 * [Parked Auxiliary Energy Maintenance Mode](docs/parked_auxiliary_energy_maintenance.md)
+* [UHV Adaptive Control and Safety System](docs/adaptive_control_and_safety_system.md)
 * [Simulations](simulations/README.md)

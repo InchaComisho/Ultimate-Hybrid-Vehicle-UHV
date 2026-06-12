@@ -142,4 +142,16 @@ Units:
 * `--standby-load-w`: auxiliary standby load in watts
 * output: Wh/day generation, load, and surplus or deficit
 
+## UHV Control State Machine
+
+`uhv_control_state_machine.py` evaluates a simplified conceptual control state for speed-adaptive mist permission, parking shield behavior, and fail-safe shutoff conditions. It is not certified vehicle safety software.
+
+Example:
+
+```bash
+python uhv_control_state_machine.py --speed-kmh 30 --temperature-c 38 --humidity 35 --visibility-ok --water-quality-ok --battery-soc 80
+```
+
+Inputs include speed, temperature, humidity, visibility, road wetness, pedestrian proximity, water quality, battery state, rain, and fault flags. Output includes selected mode, mist permission, and reason list.
+
 All outputs in these tools are simplified estimates for validation planning. They should not be presented as proven cooling performance, guaranteed city-scale effect, or improved vehicle efficiency.

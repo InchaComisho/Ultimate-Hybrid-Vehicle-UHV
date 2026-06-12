@@ -855,4 +855,5 @@ Google Search AI
 * [درع الرذاذ أثناء الوقوف المعتمد على استعادة مياه الأمطار](docs/rainwater_parking_mist_shield_ar.md)
 * [الجلد الشمسي الوقائي المعتمد على خلايا البيروفسكايت](docs/perovskite_protective_solar_skin_ar.md)
 * [وضع الحفاظ على الطاقة المساعدة أثناء الوقوف](docs/parked_auxiliary_energy_maintenance_ar.md)
+* [نظام التحكم التكيفي والسلامة في UHV](docs/adaptive_control_and_safety_system_ar.md)
 * [Simulations](simulations/README.md)
