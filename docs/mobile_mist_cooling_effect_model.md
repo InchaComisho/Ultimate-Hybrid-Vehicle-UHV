@@ -157,3 +157,11 @@ Before any engineering claim, deployment decision, or policy recommendation base
 - Multiple seasons and weather conditions
 
 This model is a starting point for conceptual exploration, not a conclusion.
+
+---
+
+## Related Maintenance Schedule
+
+Tank hygiene, water-supply mode, and cooling performance should be evaluated together with inspection intervals and maintenance burden.
+
+- [Center-Mist Maintenance Schedule](center_mist_maintenance_schedule.md)

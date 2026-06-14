@@ -11,6 +11,7 @@
 - Added multilingual documentation for the Speed Governance and Life-Protection Control Layer, including conceptual logic for legal speed limits, pedestrian safety, intersection safety, and infrastructure-assisted speed control.
 - Added Center-Mist water supply mode documentation and a mobile mist cooling effect simulator with sample outputs.
 - Added multilingual Center-Mist tank hygiene, anti-biofilm circulation, and gravity-fed micro hydropower recovery documentation.
+- Added multilingual Center-Mist maintenance schedule documentation for dry, dusty, rainy, humid, and depot-managed scenarios.
 
 ## v0.1.0 - 2026-06
 

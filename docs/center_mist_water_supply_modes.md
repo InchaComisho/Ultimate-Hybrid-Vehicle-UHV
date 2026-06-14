@@ -94,6 +94,14 @@ Water-supply selection should be considered together with tank hygiene, anti-bio
 
 ---
 
+## Related Maintenance Schedule
+
+Tank hygiene, water-supply mode, and cooling performance should be evaluated together with inspection intervals and maintenance burden.
+
+- [Center-Mist Maintenance Schedule](center_mist_maintenance_schedule.md)
+
+---
+
 ## Caution
 
 This document describes a conceptual water-supply architecture.  

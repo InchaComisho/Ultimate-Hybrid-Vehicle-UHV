@@ -258,6 +258,14 @@ Real deployment requires laboratory testing, field testing, microbial safety rev
 
 ---
 
+## Related Maintenance Schedule
+
+Tank hygiene, water-supply mode, and cooling performance should be evaluated together with inspection intervals and maintenance burden.
+
+- [Center-Mist Maintenance Schedule](center_mist_maintenance_schedule.md)
+
+---
+
 ## Summary
 
 Center-Mist Cooling requires more than a water tank and an ultrasonic mist module.

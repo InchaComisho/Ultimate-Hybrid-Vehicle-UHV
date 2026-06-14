@@ -8,6 +8,8 @@
 
 センターミスト冷却では、水タンク衛生、循環、ろ過、メンテナンスが重要である。戻り水やオーバーフロー水の自然な高低差を利用する重力落下式マイクロ水力回収ラインは、失われる小さなエネルギーを補助的に回収する候補であり、主電源ではない。
 
+乾燥・粉塵地域、降雨・二系統供給地域、拠点管理フリート向けの代表的メンテナンス周期表を追加している。
+
 ## Ultimate Hybrid Vehicle Concept
 
 ### AER-Loop × Center-Mist Cooling による環境調律型モビリティ
@@ -840,6 +842,7 @@ UHVは、気候適応型モビリティを提案する。
 * [センターミスト冷却の水供給方式](docs/center_mist_water_supply_modes_ja.md)
 * [センターミスト水タンク衛生と重力落下式回収](docs/center_mist_tank_hygiene_and_recovery_ja.md)
 * [移動型ミスト冷却効果モデル](docs/mobile_mist_cooling_effect_model_ja.md)
+* [センターミスト冷却メンテナンス周期表](docs/center_mist_maintenance_schedule_ja.md)
 * [移動型ミスト冷却サンプル結果](results/mobile_mist_cooling_sample_results.md)
 * [Simulations](simulations/README.md)
 

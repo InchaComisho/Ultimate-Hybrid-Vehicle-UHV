@@ -198,6 +198,18 @@ Optional output flags: `--output-markdown`, `--output-csv`, `--output-summary-js
 
 Key inputs: `--vehicles`, `--mist-output-lph`, `--operating-hours`, `--ambient-temp-c`, `--relative-humidity`, `--wind-speed-ms`, `--road-corridor-width-m`, `--mixing-height-m`, `--evaporation-efficiency`, `--coverage-efficiency`, `--heat-loss-factor`, `--max-temp-drop-c`
 
+## Maintenance assumptions
+
+Mobile mist cooling simulations assume the system is operating normally.
+
+In real deployment, cooling output and water use depend on maintenance intervals, tank hygiene, filter condition, clogging risk, and water quality.
+
+See:
+
+- [Center-Mist Maintenance Schedule](../docs/center_mist_maintenance_schedule.md)
+
+---
+
 ## Tank Hygiene and Gravity-Fed Recovery
 
 Mobile mist cooling simulations assume that the mist system is functioning normally. In real deployment, cooling output depends on tank hygiene, filter condition, water quality, clogging risk, and maintenance intervals.
