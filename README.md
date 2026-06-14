@@ -73,6 +73,46 @@ Center-Mist Cooling is not simply a water-spraying system. It requires humidity 
 
 ---
 
+## From Partial Optimization to Civilizational Design
+
+Conventional hybrid vehicles and EVs have made important progress in fuel economy, emissions reduction, battery use, engine efficiency, regenerative braking, and driving performance.
+
+These improvements are valuable.
+
+However, they are generally optimized at the level of the individual vehicle.
+
+The UHV concept expands the design frame.
+
+A vehicle does not only consume energy.
+
+It also produces airflow, rotation, braking energy, heat, pressure differences, water movement, and repeated interaction with roads and urban space.
+
+If these effects are treated only as losses, the vehicle remains a machine optimized for movement alone.
+
+If they are treated as design resources, the vehicle can become part of a broader environmental support system.
+
+This is the difference between partial optimization and whole-system design.
+
+UHV does not aim merely to improve fuel economy or driving performance.
+
+It attempts to connect mobility with urban heat mitigation, energy recovery, water circulation, airflow use, safety governance, and environmental regulation.
+
+This is not only a technical difference.
+
+It is a philosophical difference.
+
+Without a guiding philosophy, technology tends to optimize isolated components.
+
+With a guiding philosophy, technology can connect vehicle, city, environment, safety, water, heat, airflow, and energy circulation into a broader civilizational design.
+
+This section describes a conceptual design philosophy.
+
+It does not claim that UHV has been commercially validated, certified, or proven to regulate urban temperature in real-world deployment.
+
+Engineering validation, safety testing, maintenance trials, water-quality evaluation, thermal measurement, and regional regulation are required before real deployment.
+
+---
+
 ## Concept
 
 UHV is not a single new engine, a single cooling device, or a conventional hybrid system.
@@ -849,6 +889,7 @@ By combining AER-Loop, center-mist cooling, hybrid air-conditioning, and retrofi
 ### Portal Repositories
 
 * [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+* [Science and Technology Are Directed by Philosophy](https://github.com/InchaComisho/Artificial-Wisdom-Portal/blob/main/docs/SCIENCE_TECHNOLOGY_AND_PHILOSOPHY.md)
 * [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
 * [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
 

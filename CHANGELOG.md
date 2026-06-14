@@ -12,6 +12,7 @@
 - Added Center-Mist water supply mode documentation and a mobile mist cooling effect simulator with sample outputs.
 - Added multilingual Center-Mist tank hygiene, anti-biofilm circulation, and gravity-fed micro hydropower recovery documentation.
 - Added multilingual Center-Mist maintenance schedule documentation for dry, dusty, rainy, humid, and depot-managed scenarios.
+- Added multilingual "From Partial Optimization to Civilizational Design" section connecting UHV with whole-system environmental and civilizational design philosophy.
 
 ## v0.1.0 - 2026-06
 

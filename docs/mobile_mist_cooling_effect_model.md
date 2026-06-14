@@ -160,6 +160,16 @@ This model is a starting point for conceptual exploration, not a conclusion.
 
 ---
 
+## Related Design Philosophy
+
+The Center-Mist system is part of the broader UHV design philosophy: vehicle-generated airflow, heat, water movement, and energy losses should be treated as possible environmental support resources rather than isolated waste streams.
+
+See:
+
+- [From Partial Optimization to Civilizational Design](../README.md#from-partial-optimization-to-civilizational-design)
+
+---
+
 ## Related Maintenance Schedule
 
 Tank hygiene, water-supply mode, and cooling performance should be evaluated together with inspection intervals and maintenance burden.
