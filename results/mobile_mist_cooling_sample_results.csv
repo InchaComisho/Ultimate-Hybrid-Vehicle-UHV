@@ -1,0 +1,20 @@
+parameter_or_output,value,unit
+vehicles,100,count
+mist_output_per_vehicle,5.0,L/hr
+operating_hours,8.0,hr
+ambient_temp_c,40.0,°C
+relative_humidity,25.0,%
+wind_speed_ms,2.0,m/s
+road_corridor_width_m,30.0,m
+mixing_height_m,5.0,m
+vehicle_speed_kmh,30.0,km/h
+evaporation_efficiency,0.55,fraction
+coverage_efficiency,0.35,fraction
+heat_loss_factor,0.6,fraction
+max_temp_drop_cap,5.0,°C
+total_mist_water_use_per_hour,500.0,L/hr
+total_water_use_over_operating_hours,4000.0,L
+raw_latent_cooling_power_kw,340.278,kW
+effective_cooling_power_kw,26.201,kW
+estimated_corridor_temp_drop_c,0.521,°C (capped)
+raw_uncapped_temp_drop_c,0.521,°C

@@ -4,6 +4,8 @@
 
 走行風エネルギー回収とセンターミスト気化冷却を統合する、気候適応型車両のためのオープン発明構想です。特に乾燥気候、砂漠都市、既存都市交通への後付け冷却システムを対象とします。
 
+センターミスト冷却では、地域条件に応じて、雨水・ドレン水などの外部回収水を利用する方式と、水道水やボトル水を直接タンクへ補給する方式を使い分ける。
+
 ## Ultimate Hybrid Vehicle Concept
 
 ### AER-Loop × Center-Mist Cooling による環境調律型モビリティ
@@ -800,6 +802,20 @@ By combining AER-Loop, center-mist cooling, hybrid air-conditioning, and retrofi
 * [Distributed Renewable Infrastructure vs. Fusion Monocentrism](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
 
 ---
+## 関連する安全思想
+
+UHV構想は、より広い自動車安全思想とも接続する。
+
+- [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
+- [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
+- [إطار تصميم المركبة التي لا تُسبب الحوادث](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ar.md)
+- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
+
+UHVは、気候適応型モビリティを提案する。
+事故を起こさない自動車設計フレームワークは、生命保護型モビリティを提案する。
+
+両者を合わせることで、気候に適応しながら事故リスクを構造的に減らす次世代自動車モデルが見えてくる。
+
 
 ## Documentation
 
@@ -819,5 +835,8 @@ By combining AER-Loop, center-mist cooling, hybrid air-conditioning, and retrofi
 * [駐車時補助エネルギー維持モード](docs/parked_auxiliary_energy_maintenance_ja.md)
 * [UHV適応制御・安全制御システム](docs/adaptive_control_and_safety_system_ja.md)
 * [速度統治・生命保護制御レイヤー](docs/speed_governance_life_protection_control_ja.md)
+* [センターミスト冷却の水供給方式](docs/center_mist_water_supply_modes_ja.md)
+* [移動型ミスト冷却効果モデル](docs/mobile_mist_cooling_effect_model_ja.md)
+* [移動型ミスト冷却サンプル結果](results/mobile_mist_cooling_sample_results.md)
 * [Simulations](simulations/README.md)
 

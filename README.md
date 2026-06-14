@@ -4,6 +4,8 @@
 
 An open-invention concept for climate-adaptive vehicles integrating airflow energy recovery and center-mist evaporative cooling, especially for dry climates, desert cities, and retrofit urban cooling systems.
 
+Center-Mist Cooling supports multiple water-supply modes, including recovered rainwater or drain water in suitable regions and direct tank refill in dry or dusty regions where controlled water quality and maintenance access are more practical.
+
 ## A Climate-Adaptive Mobility Concept Integrating AER-Loop and Center-Mist Cooling
 
 ---
@@ -855,6 +857,20 @@ By combining AER-Loop, center-mist cooling, hybrid air-conditioning, and retrofi
 * [Distributed Renewable Infrastructure vs. Fusion Monocentrism](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
 
 ---
+## Related Safety Philosophy
+
+The UHV project also connects to a broader vehicle safety philosophy:
+
+- [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
+- [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
+- [إطار تصميم المركبة التي لا تُسبب الحوادث](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ar.md)
+- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
+
+UHV proposes climate-adaptive mobility.
+The Zero-Accident Vehicle Design Framework proposes life-protection mobility.
+
+Together, they suggest a next-generation vehicle model that adapts to climate while structurally reducing accident risk.
+
 
 ## Documentation
 
@@ -874,4 +890,7 @@ By combining AER-Loop, center-mist cooling, hybrid air-conditioning, and retrofi
 * [Parked Auxiliary Energy Maintenance Mode](docs/parked_auxiliary_energy_maintenance.md)
 * [UHV Adaptive Control and Safety System](docs/adaptive_control_and_safety_system.md)
 * [Speed Governance and Life-Protection Control Layer](docs/speed_governance_life_protection_control.md)
+* [Center-Mist Water Supply Modes](docs/center_mist_water_supply_modes.md)
+* [Mobile Mist Cooling Effect Model](docs/mobile_mist_cooling_effect_model.md)
+* [Mobile Mist Cooling Sample Results](results/mobile_mist_cooling_sample_results.md)
 * [Simulations](simulations/README.md)

@@ -1,0 +1,27 @@
+{
+  "scenario": {
+    "vehicles": 100,
+    "mist_output_lph_per_vehicle": 5.0,
+    "operating_hours": 8.0,
+    "ambient_temp_c": 40.0,
+    "relative_humidity_pct": 25.0,
+    "wind_speed_ms": 2.0,
+    "road_corridor_width_m": 30.0,
+    "mixing_height_m": 5.0,
+    "vehicle_speed_kmh": 30.0,
+    "evaporation_efficiency": 0.55,
+    "coverage_efficiency": 0.35,
+    "heat_loss_factor": 0.6,
+    "max_temp_drop_cap_c": 5.0
+  },
+  "estimates": {
+    "total_mist_water_use_per_hour_liters": 500.0,
+    "total_water_use_over_operating_hours_liters": 4000.0,
+    "raw_latent_cooling_power_kw": 340.278,
+    "effective_cooling_power_after_efficiency_kw": 26.201,
+    "estimated_corridor_temperature_drop_c": 0.521,
+    "raw_uncapped_temperature_drop_c": 0.521,
+    "humidity_note": "Low humidity - evaporative cooling conditions may be favorable."
+  },
+  "disclaimer": "This is an illustrative simplified cooling estimate. It is not a CFD simulation. It does not predict certified real-world temperature reduction. Actual cooling depends on humidity, wind, solar radiation, road geometry, traffic density, droplet size, evaporation rate, airflow, water quality, maintenance condition, and urban heat storage. Field testing is required before making any engineering claims."
+}

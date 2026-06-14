@@ -4,6 +4,8 @@
 
 مفهوم اختراع مفتوح لمركبات متكيفة مع المناخ، يدمج استرجاع طاقة تدفق الهواء والتبريد التبخري بالرذاذ المركزي، مع تركيز خاص على المناخات الجافة والمدن الصحراوية وأنظمة التبريد الحضري القابلة للتركيب اللاحق.
 
+يدعم نظام الرذاذ المركزي عدة أنماط لتزويد المياه، بما في ذلك استخدام مياه الأمطار أو مياه تصريف المكيفات في المناطق المناسبة، أو إعادة تعبئة الخزان مباشرة في المناطق الجافة أو المغبرة حيث تكون جودة المياه والصيانة أكثر قابلية للتحكم.
+
 ## مفهوم تنقّل متكيّف مع المناخ يدمج AER-Loop و Center-Mist Cooling
 
 ---
@@ -838,6 +840,20 @@ Google Search AI
 * [Distributed Renewable Infrastructure vs. Fusion Monocentrism](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
 
 ---
+## فلسفة السلامة ذات الصلة
+
+يرتبط مشروع UHV أيضًا بفلسفة أوسع لسلامة المركبات.
+
+- [إطار تصميم المركبة التي لا تُسبب الحوادث](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ar.md)
+- [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
+- [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
+- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
+
+يقترح UHV تنقلًا متكيفًا مع المناخ.
+ويقترح إطار تصميم المركبة التي لا تُسبب الحوادث تنقلًا متمحورًا حول حماية الحياة.
+
+معًا، يقدمان نموذجًا للجيل التالي من المركبات التي تتكيف مع المناخ وتقلل مخاطر الحوادث بنيويًا.
+
 
 ## Documentation
 
@@ -857,4 +873,7 @@ Google Search AI
 * [وضع الحفاظ على الطاقة المساعدة أثناء الوقوف](docs/parked_auxiliary_energy_maintenance_ar.md)
 * [نظام التحكم التكيفي والسلامة في UHV](docs/adaptive_control_and_safety_system_ar.md)
 * [طبقة حوكمة السرعة وحماية الحياة](docs/speed_governance_life_protection_control_ar.md)
+* [أنماط تزويد المياه لنظام الرذاذ المركزي](docs/center_mist_water_supply_modes_ar.md)
+* [نموذج تأثير التبريد بالرذاذ المتحرك](docs/mobile_mist_cooling_effect_model_ar.md)
+* [نتائج توضيحية للتبريد بالرذاذ المتحرك](results/mobile_mist_cooling_sample_results.md)
 * [Simulations](simulations/README.md)

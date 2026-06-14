@@ -179,3 +179,38 @@ python speed_governance_controller.py --driver-speed-request 50 --legal-speed-li
 Inputs include driver speed request, legal speed limit, school zone, intersection proximity, pedestrian proximity, cyclist proximity, motorcycle blind spot, visibility, road wetness, rain, infrastructure warning, and sensor fault flags. Output includes allowed target speed, safety mode, warning list, and reason list.
 
 All outputs in these tools are simplified estimates for validation planning. They should not be presented as proven cooling performance, guaranteed city-scale effect, or improved vehicle efficiency.
+
+## Mobile Mist Cooling Simulator
+
+`mobile_mist_cooling_simulator.py` provides an illustrative estimate of local cooling potential when ultrasonic-mist-equipped mobility units operate across roads or urban corridors.
+
+It is not a CFD model and not a certified thermal forecast.
+All outputs are assumption-based estimates for conceptual comparison only.
+Field testing is required before making any engineering claims.
+
+Example:
+
+```bash
+python simulations/mobile_mist_cooling_simulator.py --vehicles 100 --mist-output-lph 5 --operating-hours 8 --ambient-temp-c 40 --relative-humidity 25
+```
+
+Optional output flags: `--output-markdown`, `--output-csv`, `--output-summary-json`
+
+Key inputs: `--vehicles`, `--mist-output-lph`, `--operating-hours`, `--ambient-temp-c`, `--relative-humidity`, `--wind-speed-ms`, `--road-corridor-width-m`, `--mixing-height-m`, `--evaporation-efficiency`, `--coverage-efficiency`, `--heat-loss-factor`, `--max-temp-drop-c`
+
+## Mobile Mist Cooling Graph Generator
+
+`generate_mobile_mist_cooling_graphs.py` generates illustrative comparison graphs for four representative scenarios:
+
+1. Dry climate direct tank refill
+2. Rainy climate dual supply
+3. High humidity low evaporation
+4. Dusty desert maintenance-limited
+
+Requires matplotlib. Outputs to `images/`.
+
+Example:
+
+```bash
+python simulations/generate_mobile_mist_cooling_graphs.py
+```
