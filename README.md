@@ -6,6 +6,8 @@ An open-invention concept for climate-adaptive vehicles integrating airflow ener
 
 Center-Mist Cooling supports multiple water-supply modes, including recovered rainwater or drain water in suitable regions and direct tank refill in dry or dusty regions where controlled water quality and maintenance access are more practical.
 
+Center-Mist Cooling requires tank hygiene, circulation, filtration, and maintenance. A gravity-fed micro hydropower recovery line may recover a small amount of otherwise lost energy from return or overflow water, but it is not a primary power source and should not increase pump load solely for generation.
+
 ## A Climate-Adaptive Mobility Concept Integrating AER-Loop and Center-Mist Cooling
 
 ---
@@ -891,6 +893,7 @@ Together, they suggest a next-generation vehicle model that adapts to climate wh
 * [UHV Adaptive Control and Safety System](docs/adaptive_control_and_safety_system.md)
 * [Speed Governance and Life-Protection Control Layer](docs/speed_governance_life_protection_control.md)
 * [Center-Mist Water Supply Modes](docs/center_mist_water_supply_modes.md)
+* [Center-Mist Tank Hygiene and Gravity-Fed Recovery](docs/center_mist_tank_hygiene_and_recovery.md)
 * [Mobile Mist Cooling Effect Model](docs/mobile_mist_cooling_effect_model.md)
 * [Mobile Mist Cooling Sample Results](results/mobile_mist_cooling_sample_results.md)
 * [Simulations](simulations/README.md)

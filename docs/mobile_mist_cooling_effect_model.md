@@ -109,6 +109,16 @@ This is a representative scenario for conceptual comparison. It is not a field m
 
 ---
 
+## Water Hygiene Dependency
+
+Cooling performance depends not only on water volume and evaporation efficiency, but also on water quality, filter condition, tank hygiene, clogging risk, and maintenance intervals.
+
+A mist system with poor tank hygiene or clogged filtration may lose mist output, reduce cooling effect, and create safety concerns.
+
+See [Center-Mist Tank Hygiene and Gravity-Fed Recovery](center_mist_tank_hygiene_and_recovery.md) for the full hygiene design context.
+
+---
+
 ## Interpretation
 
 The illustrative temperature drop estimates from this model should be understood as:

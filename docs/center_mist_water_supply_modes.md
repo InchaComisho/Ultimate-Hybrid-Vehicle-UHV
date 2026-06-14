@@ -86,6 +86,14 @@ Any water-supply method requires:
 
 ---
 
+## Related Hygiene and Recovery Design
+
+Water-supply selection should be considered together with tank hygiene, anti-biofilm circulation, filtration, and gravity-fed micro hydropower recovery.
+
+- [Center-Mist Tank Hygiene and Gravity-Fed Recovery](center_mist_tank_hygiene_and_recovery.md)
+
+---
+
 ## Caution
 
 This document describes a conceptual water-supply architecture.  
