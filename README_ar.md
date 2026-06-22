@@ -717,6 +717,17 @@ UHV ليس منتجًا تجاريًا مكتملًا.
 * Center-Mist Ultrasonic Cooling Fan Concept  
   https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
 
+## إطار أرصدة التبريد ذو الصلة
+
+* [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+  إطار سياساتي وتقني لتقييم التبريد الكوكبي المباشر، واستعادة دورة المياه، والتبريد الحضري، واستعادة رطوبة التربة، ونتح النباتات، ودوران المحيطات، وخفض الحرارة المهدرة كمساهمات تبريد قابلة للقياس.
+
+* [النسخة العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
+  النسخة العربية من إطار أرصدة التبريد، وهي ذات صلة خاصة بالمناطق الجافة، والبيئات عالية الحرارة، والتبريد المعتمد على دورة المياه.
+
+* [مقال NOTE باللغة اليابانية](https://note.com/inchacomusho/n/n0f541b313ad2)
+  مقال يشرح الانتقال من سياسات المناخ القائمة على أرصدة الكربون إلى نموذج أرصدة التبريد الذي يكافئ الخفض الحراري الفعلي.
+
 ---
 
 ## التوثيق الفني

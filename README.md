@@ -751,6 +751,17 @@ UHV is based on the following principles:
 * Center-Mist Ultrasonic Cooling Fan Concept  
   https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
 
+## Related Cooling Credit Framework
+
+* [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+  A policy and technical framework for evaluating direct planetary cooling, water-cycle restoration, urban cooling, soil moisture recovery, vegetation transpiration, ocean circulation, and waste-heat reduction as measurable cooling contributions.
+
+* [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
+  Arabic version of the Cooling Credit Framework, especially relevant to dry regions, high-temperature environments, and water-cycle-based cooling.
+
+* [NOTE: Cooling Credit as a Climate Strategy](https://note.com/inchacomusho/n/n0f541b313ad2)
+  Japanese article explaining the transition from carbon-credit-centered climate policy to a cooling-credit model that rewards actual heat reduction.
+
 ---
 
 ## Repository Name

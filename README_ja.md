@@ -698,6 +698,17 @@ UHVは以下の思想に基づく。
 * Center-Mist Ultrasonic Cooling Fan Concept  
   https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
 
+## 関連するクーリングクレジット制度
+
+* [Cooling Credit Framework / クーリングクレジット制度設計案](https://github.com/InchaComisho/Cooling-Credit-Framework)
+  地球直接冷却、水循環再生、都市冷却、土壌保水、植生蒸散、海洋循環、排熱削減などの冷却効果を評価し、経済的インセンティブへ接続する制度設計案。
+
+* [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
+  クーリングクレジット制度設計案のアラビア語版。乾燥地帯・高温地域・水循環型冷却との相性が高い内容。
+
+* [NOTE：クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
+  カーボンクレジット中心の温暖化対策から、実際に熱を下げるクーリングクレジットへの転換を説明した日本語記事。
+
 ---
 
 ## Repository Name
