@@ -935,3 +935,13 @@ Google Search AI
 * [جدول صيانة نظام الرذاذ المركزي](docs/center_mist_maintenance_schedule_ar.md)
 * [نتائج توضيحية للتبريد بالرذاذ المتحرك](results/mobile_mist_cooling_sample_results.md)
 * [Simulations](simulations/README.md)
+
+---
+
+## نماذج أعمال أرصدة التبريد ذات الصلة
+
+روابط عكسية إلى وثائق نماذج الأعمال في إطار أرصدة التبريد المرتبطة بنطاق هذا المستودع من حيث التنفيذ والتصميم المؤسسي.
+
+يربط ذلك بين التبريد الخارجي في UHV، وتبريد المركبات، والتبريد اللاحق لأنظمة النقل وطبقة نماذج أعمال أرصدة التبريد.
+
+- [نموذج أعمال مروحة الرذاذ فوق الصوتي المركزي](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/CENTER_MIST_ULTRASONIC_COOLING_FAN_BUSINESS_MODEL_ar.md)

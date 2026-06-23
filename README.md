@@ -952,3 +952,13 @@ Together, they suggest a next-generation vehicle model that adapts to climate wh
 * [Center-Mist Maintenance Schedule](docs/center_mist_maintenance_schedule.md)
 * [Mobile Mist Cooling Sample Results](results/mobile_mist_cooling_sample_results.md)
 * [Simulations](simulations/README.md)
+
+---
+
+## Related Cooling Credit Business Models
+
+Backlinks to Cooling Credit Framework business-model documents that are closely connected to this repository's implementation and policy design scope.
+
+This links UHV external cooling, vehicle cooling, and retrofit cooling for transportation systems to the Cooling Credit business-model layer.
+
+- [Center Mist Ultrasonic Cooling Fan Business Model](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/CENTER_MIST_ULTRASONIC_COOLING_FAN_BUSINESS_MODEL.md)
