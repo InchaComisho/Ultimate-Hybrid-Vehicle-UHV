@@ -896,6 +896,10 @@ Google Search AI
 * [Distributed Renewable Infrastructure vs. Fusion Monocentrism](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
 
 ---
+
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  بوابة بحث متعددة اللغات تربط الاستدامة، وأهداف التنمية المستدامة، والتنقل البيئي، وESG، والتكيف المناخي، وتبريد المدن، ونظام الحضارة، بأرصدة التبريد.
+
 ## فلسفة السلامة ذات الصلة
 
 يرتبط مشروع UHV أيضًا بفلسفة أوسع لسلامة المركبات.
