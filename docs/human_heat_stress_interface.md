@@ -90,3 +90,22 @@ For this reason, UHV validation should include conservative shutoff conditions:
 ## Validation Direction
 
 A human heat-stress interface study should be designed as an environmental and safety validation process, not as a health guarantee. Recommended outputs include measured temperature, humidity, surface temperature, wind, wetting, visibility, water use, and qualitative comfort observations under approved test conditions.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

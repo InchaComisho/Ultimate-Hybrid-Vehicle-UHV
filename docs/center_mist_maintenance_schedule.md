@@ -296,3 +296,22 @@ See also:
 - [Center-Mist Tank Hygiene and Gravity-Fed Recovery](center_mist_tank_hygiene_and_recovery.md)
 - [Center-Mist Water Supply Modes](center_mist_water_supply_modes.md)
 - [Mobile Mist Cooling Effect Model](mobile_mist_cooling_effect_model.md)
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

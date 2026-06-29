@@ -275,3 +275,22 @@ Water hygiene, anti-biofilm circulation, filtration, and maintenance are core en
 A gravity-fed micro hydropower recovery unit may recover a small amount of energy from return or overflow water, but it is not a primary power source, does not generate net energy, and must not increase pump load solely for generation purposes.
 
 All elements described in this document are conceptual design directions. They require validation before any deployment decision.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

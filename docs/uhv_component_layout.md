@@ -339,3 +339,22 @@ The red lines and circles can be interpreted as candidate zones for:
 The strongest near-term application is not a fully integrated new vehicle, but a **retrofit cooling and sensing module** for buses, delivery vehicles, airport vehicles, port vehicles, and dry-climate urban mobility systems.
 
 The layout should be treated as a starting point for simulation, prototyping, safety review, and field testing.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

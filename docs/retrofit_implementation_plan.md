@@ -67,3 +67,22 @@ If field data supports the concept, coordinate multiple vehicles across bus rout
 ## Validation Principle
 
 Each phase should separate conceptual assumptions from measured results. Reports should include failed tests, safety issues, water use, and operating limits, because those results are essential for responsible development.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

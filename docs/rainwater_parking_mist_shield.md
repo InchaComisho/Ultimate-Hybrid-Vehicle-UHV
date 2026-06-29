@@ -151,3 +151,22 @@ Major limitations include:
 The Rainwater-Recovered Parking Mist Shield proposes a cautious parking heat-mitigation pathway for UHV: collect rainwater, treat it as potentially contaminated, validate water quality, and use exterior ultrasonic mist only under safe environmental conditions.
 
 If validated, the mode may reduce cabin heat-soak and could suppress surface temperature rise under suitable conditions. Until then, it should be treated as an open-invention concept and representative validation target.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

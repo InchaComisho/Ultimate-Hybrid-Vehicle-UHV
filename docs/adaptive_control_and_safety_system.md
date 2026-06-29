@@ -162,3 +162,22 @@ See:
 ## Summary
 
 The UHV Adaptive Control and Safety System defines a safety-first coordination layer for UHV modules. It should treat cooling and auxiliary functions as conditional, supervised, and fail-safe controlled rather than always-on features.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

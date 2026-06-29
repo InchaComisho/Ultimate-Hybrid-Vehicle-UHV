@@ -122,3 +122,22 @@ Real-world deployment requires engineering testing under dust, humidity, tempera
 The actual suitability of each supply mode depends on local infrastructure, regulatory requirements, water treatment capacity, vehicle operation patterns, and maintenance resources.
 
 This is a conceptual model only. No specific performance, water quality, or reliability claim is made.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

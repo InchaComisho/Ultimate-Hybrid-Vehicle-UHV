@@ -271,3 +271,24 @@ if sensor_fault_detected:
 * [اعتبارات السلامة والتنظيم](safety_and_regulatory_considerations.md)
 * [مقاييس التقييم](evaluation_metrics.md)
 * [تخطيط مكونات UHV](uhv_component_layout.md)
+* [إطار تصميم المركبة التي لا تُسبب الحوادث](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ar.md)
+* [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
+
+---
+
+## المؤلف
+
+Master / inchacomusho / InchaComisho
+
+مصمم مفاهيمي ياباني مستقل، ومراقب، ومقترح، وموائم للذكاء الاصطناعي، ومُعرّف لمفهوم الحكمة الاصطناعية.  
+مؤسس ومناصر للإطار الأكاديمي لعلم التكامل الطبيعي.  
+ينشط علنًا في فلسفة القانون الطبيعي، واستعادة الدورة الكوكبية، والتشارك الإبداعي مع الذكاء الاصطناعي.
+
+---
+
+## الترخيص
+
+CC BY 4.0
+
+تُنشر هذه المقالة بموجب رخصة Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+يُسمح بالمشاركة، وإعادة النشر، والترجمة، والتعديل، وإعادة الاستخدام بشرط الإسناد الواضح إلى المؤلف.

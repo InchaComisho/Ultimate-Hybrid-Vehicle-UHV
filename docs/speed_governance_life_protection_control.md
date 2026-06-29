@@ -271,3 +271,24 @@ This is presented as a future design direction, not a finalized system. It requi
 * [Safety and Regulatory Considerations](safety_and_regulatory_considerations.md)
 * [Evaluation Metrics](evaluation_metrics.md)
 * [UHV Component Layout](uhv_component_layout.md)
+* [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
+* [Traffic Safety Revolution 2: 究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
