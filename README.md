@@ -751,7 +751,21 @@ UHV is based on the following principles:
 * Center-Mist Ultrasonic Cooling Fan Concept  
   https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
 
+## Related Cooling Credit Framework
+
+* [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+  A policy and technical framework for evaluating direct planetary cooling, water-cycle restoration, urban cooling, soil moisture recovery, vegetation transpiration, ocean circulation, and waste-heat reduction as measurable cooling contributions.
+
+* [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
+  Arabic version of the Cooling Credit Framework, especially relevant to dry regions, high-temperature environments, and water-cycle-based cooling.
+
+* [NOTE: Cooling Credit as a Climate Strategy](https://note.com/inchacomusho/n/n0f541b313ad2)
+  Japanese article explaining the transition from carbon-credit-centered climate policy to a cooling-credit model that rewards actual heat reduction.
+
 ---
+
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  A multilingual search gateway connecting sustainability, SDGs, environmental mobility, ESG, climate adaptation, urban cooling, and Civilization OS to Cooling Credits.
 
 ## Repository Name
 
@@ -941,3 +955,13 @@ Together, they suggest a next-generation vehicle model that adapts to climate wh
 * [Center-Mist Maintenance Schedule](docs/center_mist_maintenance_schedule.md)
 * [Mobile Mist Cooling Sample Results](results/mobile_mist_cooling_sample_results.md)
 * [Simulations](simulations/README.md)
+
+---
+
+## Related Cooling Credit Business Models
+
+Backlinks to Cooling Credit Framework business-model documents that are closely connected to this repository's implementation and policy design scope.
+
+This links UHV external cooling, vehicle cooling, and retrofit cooling for transportation systems to the Cooling Credit business-model layer.
+
+- [Center Mist Ultrasonic Cooling Fan Business Model](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/CENTER_MIST_ULTRASONIC_COOLING_FAN_BUSINESS_MODEL.md)

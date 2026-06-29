@@ -698,7 +698,21 @@ UHVは以下の思想に基づく。
 * Center-Mist Ultrasonic Cooling Fan Concept  
   https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
 
+## 関連するクーリングクレジット制度
+
+* [Cooling Credit Framework / クーリングクレジット制度設計案](https://github.com/InchaComisho/Cooling-Credit-Framework)
+  地球直接冷却、水循環再生、都市冷却、土壌保水、植生蒸散、海洋循環、排熱削減などの冷却効果を評価し、経済的インセンティブへ接続する制度設計案。
+
+* [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
+  クーリングクレジット制度設計案のアラビア語版。乾燥地帯・高温地域・水循環型冷却との相性が高い内容。
+
+* [NOTE：クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
+  カーボンクレジット中心の温暖化対策から、実際に熱を下げるクーリングクレジットへの転換を説明した日本語記事。
+
 ---
+
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  サステナブル、サステナビリティ、SDGs、環境モビリティ、ESG、気候適応、都市冷却、文明OSなどの検索語から、クーリングクレジットへ接続する多言語検索入口ポータル。
 
 ## Repository Name
 
@@ -887,3 +901,12 @@ UHVは、気候適応型モビリティを提案する。
 * [移動型ミスト冷却サンプル結果](results/mobile_mist_cooling_sample_results.md)
 * [Simulations](simulations/README.md)
 
+---
+
+## 関連するクーリングクレジット事業モデル
+
+Cooling Credit Framework の事業モデル群のうち、このリポジトリと実装・制度設計上の接点が強い文書への逆リンクです。
+
+UHVの外部冷却、車両冷却、交通機関向け後付け冷却と接続する事業モデルです。
+
+- [センター超音波ミスト冷却ファン事業モデル](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/CENTER_MIST_ULTRASONIC_COOLING_FAN_BUSINESS_MODEL_ja.md)
