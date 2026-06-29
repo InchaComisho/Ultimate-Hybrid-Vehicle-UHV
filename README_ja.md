@@ -779,9 +779,7 @@ Artificial Wisdom
 
 A formal open-source license file may be added later, such as:
 
-* CC BY 4.0 for documents and diagrams
-* MIT License for simulation code
-* CERN Open Hardware License for hardware design files
+* CC BY 4.0 for documents, diagrams, simulation code, and hardware design files
 
 ---
 
