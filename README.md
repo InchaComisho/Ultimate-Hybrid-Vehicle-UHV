@@ -4,6 +4,8 @@
 
 An open-invention concept for climate-adaptive vehicles integrating airflow energy recovery and center-mist evaporative cooling, especially for dry climates, desert cities, and retrofit urban cooling systems.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 Center-Mist Cooling supports multiple water-supply modes, including recovered rainwater or drain water in suitable regions and direct tank refill in dry or dusty regions where controlled water quality and maintenance access are more practical.
 
 Center-Mist Cooling requires tank hygiene, circulation, filtration, and maintenance. A gravity-fed micro hydropower recovery line may recover a small amount of otherwise lost energy from return or overflow water, but it is not a primary power source and should not increase pump load solely for generation.
