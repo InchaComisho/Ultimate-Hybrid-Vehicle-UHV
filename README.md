@@ -735,18 +735,14 @@ UHV is based on the following principles:
 ### Current Article
 
 * Ultimate Hybrid Vehicle UHV Concept  
-  https://note.com/inchacomusho/n/nd6cce23c57bc
 
 ### Previous Related Articles
 
 * AER-Loop Related Concept  
-  https://note.com/inchacomusho/n/n2d8f31caf428
 
 * Related Concept Article  
-  https://note.com/inchacomusho/n/ndfc6d80d992a
 
 * Related Concept Article  
-  https://note.com/inchacomusho/n/nc9752b7c576f
 
 ### Related GitHub Repository
 
@@ -761,7 +757,6 @@ UHV is based on the following principles:
 * [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
   Arabic version of the Cooling Credit Framework, especially relevant to dry regions, high-temperature environments, and water-cycle-based cooling.
 
-* [NOTE: Cooling Credit as a Climate Strategy](https://note.com/inchacomusho/n/n0f541b313ad2)
   Japanese article explaining the transition from carbon-credit-centered climate policy to a cooling-credit model that rewards actual heat reduction.
 
 ---
@@ -931,7 +926,6 @@ The UHV project also connects to a broader vehicle safety philosophy:
 - [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
 - [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
 - [إطار تصميم المركبة التي لا تُسبب الحوادث](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ar.md)
-- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
 
 UHV proposes climate-adaptive mobility.
 The Zero-Accident Vehicle Design Framework proposes life-protection mobility.

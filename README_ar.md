@@ -699,18 +699,14 @@ UHV ليس منتجًا تجاريًا مكتملًا.
 ### المقال الحالي
 
 * Ultimate Hybrid Vehicle UHV Concept  
-  https://note.com/inchacomusho/n/nd6cce23c57bc
 
 ### مقالات سابقة ذات صلة
 
 * AER-Loop Related Concept  
-  https://note.com/inchacomusho/n/n2d8f31caf428
 
 * Related Concept Article  
-  https://note.com/inchacomusho/n/ndfc6d80d992a
 
 * Related Concept Article  
-  https://note.com/inchacomusho/n/nc9752b7c576f
 
 ### مستودع GitHub ذو صلة
 
@@ -725,7 +721,6 @@ UHV ليس منتجًا تجاريًا مكتملًا.
 * [النسخة العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
   النسخة العربية من إطار أرصدة التبريد، وهي ذات صلة خاصة بالمناطق الجافة، والبيئات عالية الحرارة، والتبريد المعتمد على دورة المياه.
 
-* [مقال NOTE باللغة اليابانية](https://note.com/inchacomusho/n/n0f541b313ad2)
   مقال يشرح الانتقال من سياسات المناخ القائمة على أرصدة الكربون إلى نموذج أرصدة التبريد الذي يكافئ الخفض الحراري الفعلي.
 
 ---
@@ -913,7 +908,6 @@ Google Search AI
 - [إطار تصميم المركبة التي لا تُسبب الحوادث](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ar.md)
 - [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
 - [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
-- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
 
 يقترح UHV تنقلًا متكيفًا مع المناخ.
 ويقترح إطار تصميم المركبة التي لا تُسبب الحوادث تنقلًا متمحورًا حول حماية الحياة.

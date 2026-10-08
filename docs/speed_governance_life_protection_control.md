@@ -272,7 +272,6 @@ This is presented as a future design direction, not a finalized system. It requi
 * [Evaluation Metrics](evaluation_metrics.md)
 * [UHV Component Layout](uhv_component_layout.md)
 * [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
-* [Traffic Safety Revolution 2: 究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
 
 ---
 

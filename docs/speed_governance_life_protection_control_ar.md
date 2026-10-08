@@ -272,7 +272,6 @@ if sensor_fault_detected:
 * [مقاييس التقييم](evaluation_metrics.md)
 * [تخطيط مكونات UHV](uhv_component_layout.md)
 * [إطار تصميم المركبة التي لا تُسبب الحوادث](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ar.md)
-* [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
 
 ---
 

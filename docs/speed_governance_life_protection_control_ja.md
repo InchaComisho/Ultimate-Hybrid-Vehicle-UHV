@@ -272,7 +272,6 @@ if sensor_fault_detected:
 * [評価指標](evaluation_metrics.md)
 * [UHVコンポーネントレイアウト](uhv_component_layout.md)
 * [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
-* [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
 
 ---
 

@@ -682,18 +682,14 @@ UHVは以下の思想に基づく。
 ### 今回の記事
 
 * 究極のハイブリッド車 UHV 構想案  
-  https://note.com/inchacomusho/n/nd6cce23c57bc
 
 ### 過去の関連note記事
 
 * AER-Loop 関連構想  
-  https://note.com/inchacomusho/n/n2d8f31caf428
 
 * 関連構想記事  
-  https://note.com/inchacomusho/n/ndfc6d80d992a
 
 * 関連構想記事  
-  https://note.com/inchacomusho/n/nc9752b7c576f
 
 ### 関連GitHubリポジトリ  
 
@@ -708,7 +704,6 @@ UHVは以下の思想に基づく。
 * [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
   クーリングクレジット制度設計案のアラビア語版。乾燥地帯・高温地域・水循環型冷却との相性が高い内容。
 
-* [NOTE：クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
   カーボンクレジット中心の温暖化対策から、実際に熱を下げるクーリングクレジットへの転換を説明した日本語記事。
 
 ---
@@ -875,7 +870,6 @@ UHV構想は、より広い自動車安全思想とも接続する。
 - [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
 - [Zero-Accident Vehicle Design Framework](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README.md)
 - [إطار تصميم المركبة التي لا تُسبب الحوادث](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ar.md)
-- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
 
 UHVは、気候適応型モビリティを提案する。
 事故を起こさない自動車設計フレームワークは、生命保護型モビリティを提案する。
