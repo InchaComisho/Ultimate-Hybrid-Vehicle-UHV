@@ -1,6 +1,6 @@
 # 究極のハイブリッド車 UHV 構想案
 
-[English](README_ja.md) | [العربية](README_ar.md)
+[English](README.md) | [العربية](README_ar.md)
 
 走行風エネルギー回収とセンターミスト気化冷却を統合する、気候適応型車両のためのオープン発明構想です。特に乾燥気候、砂漠都市、既存都市交通への後付け冷却システムを対象とします。
 
@@ -879,17 +879,17 @@ UHVは、気候適応型モビリティを提案する。
 
 ## Documentation
 
-* [Technical Overview](docs/technical_overview.md)
-* [AER-Loop Model](docs/aer_loop_model.md)
-* [Center-Mist Cooling Model](docs/center_mist_cooling_model.md)
-* [Retrofit Implementation Plan](docs/retrofit_implementation_plan.md)
-* [Middle East Deployment](docs/middle_east_deployment.md)
-* [Safety and Regulatory Considerations](docs/safety_and_regulatory_considerations.md)
-* [Evaluation Metrics](docs/evaluation_metrics.md)
-* [代表ケースモデル](docs/representative_case_model.md)
-* [人体熱ストレスとの接続](docs/human_heat_stress_interface.md)
-* [水使用量と湿度シナリオ](docs/water_and_humidity_scenarios.md)
-* [速度別エネルギープロファイル](docs/speed_energy_profile.md)
+* [Technical Overview](docs/technical_overview_ja.md)
+* [AER-Loop Model](docs/aer_loop_model_ja.md)
+* [Center-Mist Cooling Model](docs/center_mist_cooling_model_ja.md)
+* [Retrofit Implementation Plan](docs/retrofit_implementation_plan_ja.md)
+* [Middle East Deployment](docs/middle_east_deployment_ja.md)
+* [Safety and Regulatory Considerations](docs/safety_and_regulatory_considerations_ja.md)
+* [Evaluation Metrics](docs/evaluation_metrics_ja.md)
+* [代表ケースモデル](docs/representative_case_model_ja.md)
+* [人体熱ストレスとの接続](docs/human_heat_stress_interface_ja.md)
+* [水使用量と湿度シナリオ](docs/water_and_humidity_scenarios_ja.md)
+* [速度別エネルギープロファイル](docs/speed_energy_profile_ja.md)
 * [雨水回収式・駐車時ミスト遮熱モード](docs/rainwater_parking_mist_shield_ja.md)
 * [保護型ペロブスカイト・ソーラースキン](docs/perovskite_protective_solar_skin_ja.md)
 * [駐車時補助エネルギー維持モード](docs/parked_auxiliary_energy_maintenance_ja.md)
@@ -899,8 +899,8 @@ UHVは、気候適応型モビリティを提案する。
 * [センターミスト水タンク衛生と重力落下式回収](docs/center_mist_tank_hygiene_and_recovery_ja.md)
 * [移動型ミスト冷却効果モデル](docs/mobile_mist_cooling_effect_model_ja.md)
 * [センターミスト冷却メンテナンス周期表](docs/center_mist_maintenance_schedule_ja.md)
-* [移動型ミスト冷却サンプル結果](results/mobile_mist_cooling_sample_results.md)
-* [Simulations](simulations/README.md)
+* [移動型ミスト冷却サンプル結果](results/mobile_mist_cooling_sample_results_ja.md)
+* [Simulations](simulations/README_ja.md)
 
 ---
 

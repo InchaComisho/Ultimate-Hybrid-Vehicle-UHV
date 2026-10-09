@@ -208,7 +208,7 @@ python simulations/mobile_mist_cooling_simulator.py --vehicles 100 --mist-output
 
 参照：
 
-- [センターミストのメンテナンス周期](../docs/center_mist_maintenance_schedule.md)
+- [センターミストのメンテナンス周期](../docs/center_mist_maintenance_schedule_ja.md)
 
 ---
 
@@ -218,7 +218,7 @@ python simulations/mobile_mist_cooling_simulator.py --vehicles 100 --mist-output
 
 重力落下式のマイクロ水力回収は、小さな補助的な回収の構想であり、正味のエネルギー発電としてモデル化してはならない。
 
-タンクの衛生と回収の設計の詳細については、[docs/center_mist_tank_hygiene_and_recovery.md](../docs/center_mist_tank_hygiene_and_recovery.md)を参照。
+タンクの衛生と回収の設計の詳細については、[docs/center_mist_tank_hygiene_and_recovery.md](../docs/center_mist_tank_hygiene_and_recovery_ja.md)を参照。
 
 ## 移動型ミスト冷却のグラフ生成ツール
 
