@@ -1,5 +1,7 @@
 # Center-Mist Maintenance Schedule
 
+[日本語版はこちら / Japanese version](center_mist_maintenance_schedule_ja.md)
+
 ## Overview
 
 Center-Mist Cooling requires more than a water tank and mist module.

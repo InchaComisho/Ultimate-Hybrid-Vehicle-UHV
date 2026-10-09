@@ -1,5 +1,7 @@
 # Rainwater-Recovered Parking Mist Shield
 
+[日本語版はこちら / Japanese version](rainwater_parking_mist_shield_ja.md)
+
 ## Overview
 
 The Rainwater-Recovered Parking Mist Shield is a conceptual UHV parking heat-mitigation mode. It proposes collecting rainwater, treating it through filtration and water-quality control, and using it for exterior ultrasonic mist cooling while a vehicle is parked under strong sunlight.

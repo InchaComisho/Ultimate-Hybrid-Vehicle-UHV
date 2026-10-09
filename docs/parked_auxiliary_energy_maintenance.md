@@ -1,5 +1,7 @@
 # Parked Auxiliary Energy Maintenance Mode
 
+[日本語版はこちら / Japanese version](parked_auxiliary_energy_maintenance_ja.md)
+
 ## Overview
 
 Parked Auxiliary Energy Maintenance Mode is a conceptual UHV subsystem for maintaining low-power functions while the vehicle is parked. It combines protected perovskite solar skin, parked vertical-axis wind auxiliary generation, charge control, and an auxiliary battery.

@@ -1,5 +1,7 @@
 # Perovskite Protective Solar Skin
 
+[日本語版はこちら / Japanese version](perovskite_protective_solar_skin_ja.md)
+
 ## Overview
 
 Perovskite Protective Solar Skin is a conceptual UHV parking-energy subsystem. It proposes using protected, body-integrated perovskite solar modules to support auxiliary power while a vehicle is parked.

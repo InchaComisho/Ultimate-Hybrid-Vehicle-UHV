@@ -1,5 +1,7 @@
 # UHV適応制御・安全制御システム
 
+[English Version](adaptive_control_and_safety_system.md)
+
 ## 概要
 
 UHV適応制御・安全制御システムは、UHVの冷却、ミスト、走行風回収、駐車時ミスト遮熱、水質安全、歩行者安全、視界安全、補助エネルギー機能を統合的に管理するための概念的制御層である。

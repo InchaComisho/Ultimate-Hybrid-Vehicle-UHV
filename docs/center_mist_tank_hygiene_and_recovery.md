@@ -1,5 +1,7 @@
 # Center-Mist Tank Hygiene and Gravity-Fed Recovery
 
+[日本語版はこちら / Japanese version](center_mist_tank_hygiene_and_recovery_ja.md)
+
 ## Overview
 
 Center-Mist Cooling uses water that may be converted into fine mist and released near people, roads, vehicles, and urban environments.

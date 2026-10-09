@@ -1,5 +1,7 @@
 # センターミスト冷却メンテナンス周期表
 
+[English Version](center_mist_maintenance_schedule.md)
+
 ## 概要
 
 センターミスト冷却は、水タンクとミスト発生装置だけで成立するものではない。

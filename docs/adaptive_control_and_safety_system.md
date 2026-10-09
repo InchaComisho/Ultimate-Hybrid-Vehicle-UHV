@@ -1,5 +1,7 @@
 # UHV Adaptive Control and Safety System
 
+[日本語版はこちら / Japanese version](adaptive_control_and_safety_system_ja.md)
+
 ## Overview
 
 The UHV Adaptive Control and Safety System is a conceptual control layer for coordinating UHV cooling, mist, airflow recovery, parking heat-shield, water-quality, pedestrian-safety, visibility-safety, and auxiliary-energy functions.

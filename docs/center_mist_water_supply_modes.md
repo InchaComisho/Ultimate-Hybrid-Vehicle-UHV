@@ -1,5 +1,7 @@
 # Center-Mist Water Supply Modes
 
+[日本語版はこちら / Japanese version](center_mist_water_supply_modes_ja.md)
+
 ## Overview
 
 Center-Mist Cooling requires a reliable water supply.  

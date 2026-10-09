@@ -1,5 +1,7 @@
 # センターミスト冷却の水供給方式
 
+[English Version](center_mist_water_supply_modes.md)
+
 ## 概要
 
 センターミスト冷却には安定した水供給が必要である。  

@@ -1,5 +1,7 @@
 # Speed Governance and Life-Protection Control Layer
 
+[日本語版はこちら / Japanese version](speed_governance_life_protection_control_ja.md)
+
 > **Disclaimer:** This document describes a candidate safety architecture and conceptual design principle. It is not a certified or production-ready system. Real implementation requires automotive safety engineering, redundancy, independent validation, regulatory approval, and legal compliance. No guarantee of accident elimination is made or implied.
 
 ---

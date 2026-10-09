@@ -1,5 +1,7 @@
 # Mobile Mist Cooling Effect Model
 
+[日本語版はこちら / Japanese version](mobile_mist_cooling_effect_model_ja.md)
+
 ## Overview
 
 This document describes a conceptual model for estimating the local cooling potential when ultrasonic-mist-equipped mobility units — such as UHV-type vehicles — operate through roads, urban corridors, or dry-climate transport routes.
