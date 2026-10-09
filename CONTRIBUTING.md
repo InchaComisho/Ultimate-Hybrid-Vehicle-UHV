@@ -1,5 +1,7 @@
 # Contributing
 
+[日本語版はこちら / Japanese version](CONTRIBUTING_ja.md)
+
 Contributions are welcome. This repository is an open-invention concept, so useful contributions may include simulations, translations, diagrams, safety review, prototype reports, field-test notes, and clearer technical explanations.
 
 Please keep the tone academic, technical, and accessible.

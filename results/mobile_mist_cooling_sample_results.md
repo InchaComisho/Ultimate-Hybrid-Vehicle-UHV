@@ -1,5 +1,7 @@
 # Mobile Mist Cooling — Illustrative Sample Results
 
+[日本語版はこちら / Japanese version](mobile_mist_cooling_sample_results_ja.md)
+
 > **Disclaimer:** This is an illustrative simplified cooling estimate.
 > It is not a CFD simulation.
 > It does not predict certified real-world temperature reduction.

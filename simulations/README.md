@@ -1,5 +1,7 @@
 # Simulations
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 This directory contains simple Python 3 estimators for early UHV concept exploration. They use no external dependencies and are intended for first-order calculations only. Prototype and field measurements are required before making engineering claims.
 
 ## Evaporative Cooling Estimator

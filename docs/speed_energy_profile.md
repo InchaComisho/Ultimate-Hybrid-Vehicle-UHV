@@ -1,5 +1,7 @@
 # Speed-Energy Profile
 
+[日本語版はこちら / Japanese version](speed_energy_profile_ja.md)
+
 This document introduces a representative speed-energy profile model for the Ultimate Hybrid Vehicle UHV concept. It compares two different quantities as vehicle speed changes:
 
 * theoretical latent cooling potential from Center-Mist Cooling

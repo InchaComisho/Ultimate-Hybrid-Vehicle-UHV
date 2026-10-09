@@ -1,5 +1,7 @@
 # Middle East Deployment
 
+[日本語版はこちら / Japanese version](middle_east_deployment_ja.md)
+
 The Middle East is a relevant region for UHV field exploration because many locations combine high temperatures, low humidity, strong sunlight, hot road surfaces, and large infrastructure projects. These conditions may make evaporative cooling more effective than in humid climates, but all deployment claims require field validation.
 
 ## Candidate Contexts

@@ -1,5 +1,7 @@
 # Representative Case Model
 
+[日本語版はこちら / Japanese version](representative_case_model_ja.md)
+
 This document provides representative engineering cases for evaluating the Ultimate Hybrid Vehicle UHV concept. The values are example assumptions only. They are not validated results, certified performance data, or guarantees of city-scale cooling.
 
 The purpose is to help prototype teams discuss order-of-magnitude cooling, water use, humidity risk, and airflow conditions before field testing.

@@ -1,5 +1,7 @@
 # AER-Loop Model
 
+[日本語版はこちら / Japanese version](aer_loop_model_ja.md)
+
 AER-Loop is the airflow energy recovery layer of the UHV concept. It proposes recovering limited auxiliary power from vehicle-related airflow, crosswind, natural wind while parked, braking, and rotational losses. It must not be described as perpetual motion or as a main propulsion energy source.
 
 ## Wind Power Estimate

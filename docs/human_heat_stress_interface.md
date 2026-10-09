@@ -1,5 +1,7 @@
 # Human Heat Stress Interface
 
+[日本語版はこちら / Japanese version](human_heat_stress_interface_ja.md)
+
 This document explains how UHV cooling concepts may connect to human thermal comfort and heat-stress research concepts. It does not make medical claims and does not claim that UHV has been validated to prevent illness or guarantee safety. Detailed human-subject, urban-climate, and transport-safety validation would be required before any public deployment.
 
 ## Why Road-Level Cooling May Matter

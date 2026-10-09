@@ -1,5 +1,7 @@
 # Evaluation Metrics
 
+[日本語版はこちら / Japanese version](evaluation_metrics_ja.md)
+
 UHV should be evaluated with measurable indicators. The goal is to separate conceptual promise from validated engineering data.
 
 ## Thermal Metrics

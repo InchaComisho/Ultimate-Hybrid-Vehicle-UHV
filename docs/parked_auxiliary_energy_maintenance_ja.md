@@ -11,9 +11,9 @@
 関連UHV文書:
 
 * [雨水回収式・駐車時ミスト遮熱モード](rainwater_parking_mist_shield_ja.md)
-* [水使用量と湿度シナリオ](water_and_humidity_scenarios.md)
-* [速度別エネルギープロファイル](speed_energy_profile.md)
-* [AER-Loop Model](aer_loop_model.md)
+* [水使用量と湿度シナリオ](water_and_humidity_scenarios_ja.md)
+* [速度別エネルギープロファイル](speed_energy_profile_ja.md)
+* [AER-Loop Model](aer_loop_model_ja.md)
 
 ## 基本フロー
 

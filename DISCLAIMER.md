@@ -1,5 +1,7 @@
 # Disclaimer
 
+[日本語版はこちら / Japanese version](DISCLAIMER_ja.md)
+
 This repository presents a conceptual and technical proposal.
 
 It is not a certified vehicle system, safety-approved automotive product, or validated commercial implementation.

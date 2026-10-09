@@ -1,5 +1,7 @@
 # Center-Mist Cooling Model
 
+[日本語版はこちら / Japanese version](center_mist_cooling_model_ja.md)
+
 Center-Mist Cooling is the evaporative cooling layer of the UHV concept. It proposes placing fine mist into the central airflow of a fan or duct so that droplets mix with moving air and evaporate before they wet roads, pedestrians, or vehicle surfaces.
 
 ## Evaporative Cooling Equation

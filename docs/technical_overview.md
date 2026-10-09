@@ -1,5 +1,7 @@
 # Technical Overview
 
+[日本語版はこちら / Japanese version](technical_overview_ja.md)
+
 The Ultimate Hybrid Vehicle UHV concept treats a vehicle as a layered climate-adaptive system. It is not a single engine, a single fan, or a claim of self-sustaining energy. It is an open-invention proposal for combining airflow management, auxiliary energy recovery, evaporative cooling, and retrofit deployment so that vehicles may support local thermal comfort while preserving normal transportation functions.
 
 ## Layered System Model

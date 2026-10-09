@@ -1,5 +1,7 @@
 # Safety and Regulatory Considerations
 
+[日本語版はこちら / Japanese version](safety_and_regulatory_considerations_ja.md)
+
 UHV is a conceptual and technical proposal, not a certified vehicle system. Any implementation requires formal engineering review, legal review, environmental assessment, and approval under local transport regulations.
 
 ## Road Safety

@@ -10,12 +10,12 @@ UHV適応制御・安全制御システムは、UHVの冷却、ミスト、走�
 
 関連文書：
 
-* [Rainwater-Recovered Parking Mist Shield](rainwater_parking_mist_shield.md)
-* [Parked Auxiliary Energy Maintenance Mode](parked_auxiliary_energy_maintenance.md)
-* [Perovskite Protective Solar Skin](perovskite_protective_solar_skin.md)
-* [Speed-Energy Profile](speed_energy_profile.md)
-* [Safety and Regulatory Considerations](safety_and_regulatory_considerations.md)
-* [Evaluation Metrics](evaluation_metrics.md)
+* [Rainwater-Recovered Parking Mist Shield](rainwater_parking_mist_shield_ja.md)
+* [Parked Auxiliary Energy Maintenance Mode](parked_auxiliary_energy_maintenance_ja.md)
+* [Perovskite Protective Solar Skin](perovskite_protective_solar_skin_ja.md)
+* [Speed-Energy Profile](speed_energy_profile_ja.md)
+* [Safety and Regulatory Considerations](safety_and_regulatory_considerations_ja.md)
+* [Evaluation Metrics](evaluation_metrics_ja.md)
 
 ## なぜ制御システムが必要か
 

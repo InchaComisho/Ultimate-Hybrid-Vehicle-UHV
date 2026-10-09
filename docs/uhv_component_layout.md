@@ -1,5 +1,7 @@
 # UHV Component Layout and Functional Placement Guide
 
+[日本語版はこちら / Japanese version](uhv_component_layout_ja.md)
+
 ## Purpose
 
 This document explains how the visual layout of the **Ultimate Hybrid Vehicle UHV** can be interpreted as a functional placement map for airflow recovery, center-mist cooling, auxiliary power recovery, and retrofit installation.

@@ -1,5 +1,7 @@
 # Retrofit Implementation Plan
 
+[日本語版はこちら / Japanese version](retrofit_implementation_plan_ja.md)
+
 The retrofit path allows UHV concepts to be tested without building an entirely new vehicle. External Center-Mist Cooling units can be mounted as controlled modules, measured independently, and improved before deeper integration with airflow recovery systems.
 
 ## Target Vehicles

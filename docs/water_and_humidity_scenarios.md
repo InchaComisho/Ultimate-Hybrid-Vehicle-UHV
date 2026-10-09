@@ -1,5 +1,7 @@
 # Water and Humidity Scenarios
 
+[日本語版はこちら / Japanese version](water_and_humidity_scenarios_ja.md)
+
 Water use is one of the central constraints for UHV Center-Mist Cooling. This document provides representative scenario calculations for vehicle water demand, fleet water demand, humidity risk, and water-resource tradeoffs. These are conceptual estimates only and require field validation.
 
 ## Water Use Per Vehicle

@@ -270,9 +270,9 @@ if sensor_fault_detected:
 ## 関連ドキュメント
 
 * [適応制御・安全制御システム](adaptive_control_and_safety_system_ja.md)
-* [安全性と規制上の考慮事項](safety_and_regulatory_considerations.md)
-* [評価指標](evaluation_metrics.md)
-* [UHVコンポーネントレイアウト](uhv_component_layout.md)
+* [安全性と規制上の考慮事項](safety_and_regulatory_considerations_ja.md)
+* [評価指標](evaluation_metrics_ja.md)
+* [UHVコンポーネントレイアウト](uhv_component_layout_ja.md)
 * [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
 
 ---

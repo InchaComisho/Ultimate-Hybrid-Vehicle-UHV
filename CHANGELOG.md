@@ -1,5 +1,7 @@
 # Changelog
 
+[日本語版はこちら / Japanese version](CHANGELOG_ja.md)
+
 ## Unreleased
 
 - Added cross-links to the Zero-Accident Vehicle Design Framework, UHV, and the related Traffic Safety Revolution 2 NOTE article.
